@@ -1,1 +1,1 @@
-<iframe src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes"></iframe>
+![Tableau Preview](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
