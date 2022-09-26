@@ -1,1 +1,1 @@
-![Tableau Preview](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Tableau Preview](https://github.com/NirvanaDogra/Credit_Analysis_AAP/blob/master/tableauPreview.gif)
